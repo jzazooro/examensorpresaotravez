@@ -6,25 +6,25 @@ He resuelto un examen el cual pide
 
 Mi codigo es el siguiente: 
 
-### main
+### Main
 
 ```
 
 ```
 
-### 
+### Ejercicio 1
 
 ```
 
 ```
 
-### 
+### Ejercicio 2
 
 ```
 
 ```
 
-### 
+### Ejercicio 3
 
 ```
 
